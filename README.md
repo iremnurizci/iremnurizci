@@ -1,6 +1,5 @@
 <h1 align="center"> Hi! I'm Irem Nur Izci</h1>
-<h3 align="center">Computer Science Student</h3>
-
+<h3 align="center"> I am bachelor student at Dokuz Eylül University, Department of Computer Science </h3>
 
 
 Contact me at **irererem545@icloud.com**
