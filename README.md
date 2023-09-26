@@ -21,4 +21,4 @@ Contact me at **irererem545@icloud.com**
 
 <br>
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iremnurizci)](https://git.io/streak-stats)</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iremnurizci" alt="iremnurizci" /></p>
