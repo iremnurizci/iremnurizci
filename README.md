@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, İrem Nur İzci</h1>
+<h1 align="center"> Hi!👋, I'm İrem Nur İzci</h1>
 <hr/>
 
  
 <h3 align="center">Computer Science Student</h3>
 
-Reach me:  **iremnur545@gmail.com**
+<h3 align="center">You can reach me:  **iremnur545@gmail.com**</h3>
 
 <div align="center">
 <h3 align="center">Connect With me:</h3>
