@@ -1,25 +1,37 @@
-<h1 align="center"> Hi! I'm Irem Nur Izci</h1>
-<h3 align="center"> Bachelor student at Dokuz Eylul University, Department of Computer Science </h3>
+### Hi!👋 I'm İrem Nur İzci
+<hr/>
+
+ 
+I'm a Computer Science Student
+
+Reach me:   iremnur545@gmail.com
+
+<div align="center">
+<h3 align="center">Connect With me:</h3>
+</br>
+
+<a href="https://www.linkedin.com/in/irem-nur-izci"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA9JFnjUz-4oxN1KKnFRi6H-ha0WlHx9tBF1re0Wpx6IT0icSrueHPFDwMlYS5eDJ9HCg&usqp=CAU" alt="İrem Nur İzci" height="30" width="40" style="max-width: 100%;"></a> <a href="https://www.kaggle.com/remnurzci">   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3521526-2945029.png" alt="İrem Nur İzci" height="30" width="40" style="max-width: 100%;"></a>
+</br>
+
+<h3 align="center">Languages and Tools:</h3>
+</br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://codepen.io/iremnurizci"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40" style="max-width: 100%;"> </a><a href="https://nodejs.org/en/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a><a href="https://code.visualstudio.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.css3.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://html5.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.kaggle.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40" style="max-width: 100%;"> </a>
+
+ </br> </br>
 
 
-Contact me at **irererem545@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/irem-nur-izci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asuf29" height="30" width="40" /></a>
+![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=iremnurizci&show_icons=true&theme=radical)
+</br> </br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iremnurizci)](https://git.io/streak-stats)
+</br> </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurizci&layout=compact)](https://github.com/iremnurizci/github-readme-stats)
 
-</p>
+ </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-<br>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnurizci" alt="iremnurizci" /></p>
+  
+  
