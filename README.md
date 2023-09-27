@@ -1,10 +1,10 @@
-### Hi!👋 I'm İrem Nur İzci
+<h1 align="center">Hi 👋, İrem Nur İzci</h1>
 <hr/>
 
  
-I'm a Computer Science Student
+<h3 align="center">Computer Science Student</h3>
 
-Reach me:   iremnur545@gmail.com
+Reach me:  **iremnur545@gmail.com**
 
 <div align="center">
 <h3 align="center">Connect With me:</h3>
